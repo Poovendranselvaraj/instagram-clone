@@ -11,5 +11,33 @@ header{
     display: flex;
     justify-content: space-between;
     align-items:center;
-    padding
+    padding : 10px 18%;
+    border-bottom : 1px rgba(219,219,219,1);
+    background-color: white;
+}
+header .logo{
+    height: 29px;
+
+}
+header .logo img{
+    height: 100%;
+    object-fit: contain;
+
+}   
+header .search-box{
+    width: 250px;
+    background-color: tgba(239,239,239,1);
+    padding: 3px 16px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+}
+header .search-box input{
+    height: 30px;
+    border: none;
+    outline: none;
+    background-color: rgba(239,239,239,1);
+    padding-left: 10px;
+    font-size: 15px;
+    color: #8e8e8e;
 }
