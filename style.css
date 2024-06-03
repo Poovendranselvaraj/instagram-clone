@@ -82,8 +82,8 @@ header nav ul li a i{
   }
   .story .stories{
     width: 17%;
-    margin-right: 3px;
-    margin-left: 3px;
+    margin-right: 1px;
+    margin-left: 1px;
   }
   .story .stories a img{
     border-radius: 50%;
